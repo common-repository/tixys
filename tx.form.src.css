@@ -1,0 +1,15 @@
+/* some basic styling for the form */
+
+.tixys-search table                                     { table-layout: auto; border: 0; border-collapse: collapse; }
+.tixys-search table td, .tixys-search table th          { border: 0; }
+.tixys-search table th                                  { width: 1%; padding-right: 2em; white-space: nowrap }
+
+
+.tixys-search input[type=text], .tixys-search select    { cursor: pointer; width: 100%; }
+.tixys-search input[type=text].tixys-select-day         { max-width: 15ex }
+td.tixys-indicator                                      { width: 40px; }
+td.tixys-indicator img                                  { display: none; }
+
+td.tixys-home                                                           { font-size:.9em; color: #999 }
+td.tixys-home a,td.tixys-home a:link,td.tixys-home a:visited            { color:#777 }
+td.tixys-home a:hover, td.tixys-home a:focus, td.tixys-home a:active    { color: #595959; }

@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tixys WordPress plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-08 20:08+0200\n"
+"PO-Revision-Date: 2013-09-24 01:02+0200\n"
+"Last-Translator: Alex Günsche <l10n@tixys.com>\n"
+"Language-Team: Alex Günsche <l10n@tixys.com>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: adminpage.php:8 tixys.php:51
+msgid "Tixys configuration"
+msgstr "Tixys-Konfiguration"
+
+#: adminpage.php:13
+msgid "Shop ID"
+msgstr "Shop-ID"
+
+#: adminpage.php:16
+msgid "Your shop’s ID. You will find at the top of the “general settings” administration page of your shop."
+msgstr "Ihre Shop-ID. Sie finden diese oben auf der Seite „Allgemeine Einstellungen“ im Administrationsbereich Ihres Shops."
+
+#: adminpage.php:20
+msgid "Version"
+msgstr "Version"
+
+#: adminpage.php:39
+msgid "Your Tixys version."
+msgstr "Ihre Tixys-Version."
+
+#: adminpage.php:43
+msgid "Base path"
+msgstr "Basis-Pfad"
+
+#: adminpage.php:46
+msgid "Your shop’s URL base path."
+msgstr "Der URL-Pfad Ihres Shops."
+
+#: adminpage.php:54
+msgid "Submit Changes"
+msgstr "Änderungen speichern"
+
+#: form.php:20
+msgid "From:"
+msgstr "Von:"
+
+#: form.php:23 form.php:44
+msgid "– Please select –"
+msgstr "– Bitte wählen –"
+
+#: form.php:40
+msgid "To:"
+msgstr "Nach:"
+
+#: form.php:60
+msgid "Day:"
+msgstr "Datum:"
+
+#: form.php:82
+msgid "Search connections and buy a ticket »"
+msgstr "Verbindungen suchen und Ticket kaufen »"
+
+#: form.php:87
+msgid "Powered by the <a href='http://www.tixys.com/' target='_blank'>Tixys booking platform</a>."
+msgstr "Powered by the <a href='http://www.tixys.com/' target='_blank'>Tixys booking platform</a>."
+
+#: tixys.php:62
+msgid "ERROR: The shop ID must be a positive number."
+msgstr "FEHLER: Die Shop-ID muss eine positive Zahl sein."
+
+#: tixys.php:65
+msgid "ERROR: The shop domain may only contain lowercase latin letters, numbers and dots."
+msgstr "FEHLER: Die Shop-Domain darf nur Kleinbuchstaben, Zahlen und Punkte enthalten."
+
+#: tixys.php:68
+msgid "ERROR: The shop path may only contain lowercase latin letters, numbers and dashes."
+msgstr "FEHLER: Der Shop-Pfad darf nur Kleinbuchstaben, Zahlen und Bindestriche enthalten."
+
+#: tixys.php:82
+msgid "The settings have been updated."
+msgstr "Die Einstellungen wurden aktualisiert."
+
+#~ msgid "Your shop’s ID. You will find it at the bottom of your shop’s administration area."
+#~ msgstr "Die ID Ihres Shops. Sie finden diese am Seitenfuß im Administrationsbereich Ihres Shops."
